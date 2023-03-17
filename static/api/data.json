@@ -68,9 +68,9 @@
         "skillmessage": "Mes compétences en langage de programmation",
         "education": [{
             "school": "Université de Dschang.",
-            "degree": "Bachelor's Degree, Computer Science",
+            "degree": "Master en Intelligence Artificielle",
             "graduated": "Juilet  2022",
-            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'exament Licence en Informatique Fondamental",
+            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'exament Master en Intelligence Artificielle",
             "url":"#"
             
         },
@@ -173,7 +173,7 @@
                 "clientaddress": "Liverpool, Angleterre"
             },
             {
-                "text": "Pour coder, Il sait prendre des bonnes décisions. La patience est aussi une des clefs de votre réussite, prenez sur vous et faites abstraction du reste pour avancer et trouver des solutions.!",
+                "text": "Pour mener à bien un projet, Il sait prendre des bonnes décisions. La patience est aussi une des clefs de votre réussite, prenez sur vous et faites abstraction du reste pour avancer et trouver des solutions.!",
                 "clientname": "Yannick Mabou",
                 "clientaddress": "Douala, Cameroun"
             }
