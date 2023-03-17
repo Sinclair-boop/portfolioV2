@@ -6,13 +6,13 @@ This allows you to customize your own personal portfolio that can be used for ap
 ![Nuxt JS Portfolio for developer](1.PNG?raw=true "Nuxt JS Portfolio for developer")
 It has Dark mode enabled
 ![Nuxt JS Portfolio for developer](2.PNG?raw=true "Nuxt JS Portfolio for developer")
-### <a href="http://baizidmdashadzzaman.com/">LIVE DEMO</a>
+### <a href="https://portfolio-v2-chi-sooty.vercel.app/">LIVE DEMO</a>
 
 ### How Install
 
 You can simply run the project by following process
 ```shell
-$ git clone https://github.com//protfolio-for-developer-using-nuxt-js.git
+$ git clone https://github.com/Sinclair-boop/portfolioV2.git
 ```
 ```shell
 $ cd protfolio-for-developer-using-nuxt-js
