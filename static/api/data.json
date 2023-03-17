@@ -1,99 +1,142 @@
 {
     "main": {
-        "name": "Baizid MD Ashadzzaman",
-        "shortname": "Zaman",
-        "occupation": "Developer / Programmer / Engineer",
-        "description": "Eat, sleep, code, repeat.",
-        "yearofexperience": "05",
+        "name": "Sinclair FOTSO NGAPOUT",
+        "shortname": "Boop",
+        "occupation": "Développeur / Programmeur / Ingénieur",
+        "description": "Mangez, dormez, codez, répétez.",
+        "yearofexperience": "02",
         "age": "25",
-        "designation": "Software engineer",
+        "designation": "Développeur full stack",
         "image": "/images/photo.png",
         "fullimage": "/images/myphoto1.jpg",
-        "bio": "Hi there! I have been very passionate about computers and programming since my university life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me to achieve my goal.",
-        "contactmessage": "Get in touch with me to to build any software for your business.!",
-        "email": "baizid.md.ashadzzaman@gmail.com",
-        "phone": "+88 01862420119",
-        "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6698920746726!2d91.8166201143615!3d22.328320947520915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b3c659a4fb%3A0xcf4c00425d483eb6!2s12%20Quarter%20Ln%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1631249930628!5m2!1sen!2sbd",
+        "bio": "Je rêve d'être un développeur full stack expert afin de pouvoir créer des logiciels professionnels et utiles qui ont une valeur commerciale. Je recherche un poste développeur full stack dans une société de logiciels réputée qui peut m'aider à atteindre mon objectif.",
+        "contactmessage": "Contactez-moi pour créer un logiciel pour votre entreprise!",
+        "email": "ngapoutfotso@gmail.com",
+        "phone": "+237693462144",
+        "mapaddress": "https://goo.gl/maps/Z93uUwt68BsqXc2DA",
         "address": {
-            "street": "Pahartoli 12 quater",
-            "city": "Chittagong",
-            "state": "Bangladesh",
+            "street": "Foto",
+            "city": "Dschang",
+            "state": "Cameroun",
             "zip": "4202"
         },
         "quotes1": {
-            "sectiontitle": "My resume",
-            "title": "I Would Love to make your Ideas real",
-            "description": "I love graphic design and photography and have been working on my portfolio since 2016. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+            "sectiontitle": "Mon CV",
+            "title": "J'aimerais concrétiser vos idées",
+            "description": "J'adore le graphisme et la photographie et travaille sur mon portfolio depuis 2020. Vous pouvez télécharger mon CV afin de connaître les détails de ma vie professionnelle en tant que Développeur web et mobile. Contactez-moi et nous discuterons de vos projets !"
         },
         "quotes2": {
             "sectiontitle": "",
-            "title": "I can give your business a new creative start right away! Hire me for your Awesome project",
-            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, corrupti odit? At iure facere, porro repellat officia quas, dolores magnam assumenda soluta odit harum voluptate inventore ipsa maiores fugiat accusamus eos nulla. Iure voluptatibus explicabo officia."
+            "title": "Je peux donner à votre entreprise un nouveau départ créatif tout de suite ! Engagez-moi pour votre projet génial",
+            "description": "Maintenance du site web en francais et mise à jour régulière suivant les offres promotionnelles et événements. Utilisation codage et HTML. Assister l'ingénieur senior sur la maintenance du site internet. Forte utilisation de l'Anglais."
         },
         "workabout": {
-            "completedproject": "100",
-            "inprogressproject": "20",
-            "awardrecived": "15",
-            "happyclinet": "100"
+            "completedproject": "2",
+            "inprogressproject": "7",
+            "awardrecived": "0",
+            "happyclinet": "2"
         },
-        "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
+        "resumedownload": "https://drive.google.com/file/d/13U0Hto6pu_cikuDWpfsS0012_r-_em9E/view?usp=sharing",
         "social": [{
                 "name": "youtube",
-                "url": "https://www.youtube.com/channel/UCGP5kbtnscx5uTN5suCZfMA?view_as=subscriber",
+                "url": "https://www.youtube.com/channel/UCHwr0CjLnhqIWcQh9pX9NJw",
                 "className": "fa fa-youtube"
             },
             {
                 "name": "facebook",
-                "url": "https://www.facebook.com/asadzaman0167",
+                "url": "https://web.facebook.com/profile.php?id=100063778442834",
                 "className": "fa fa-facebook"
             },
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/in/zamanasad/",
+                "url": "https://www.linkedin.com/in/sinclair-fotso-ngapout-1031441a5/",
                 "className": "fa fa-linkedin"
             },
             {
-                "name": "instagram",
-                "url": "https://www.instagram.com/iamasadzaman/",
-                "className": "fa fa-instagram"
+                "name": "twitter",
+                "url": "https://twitter.com/Solution237",
+                "className": "fa fa-twitter"
             },
             {
                 "name": "github",
-                "url": "https://github.com/Baizidmdashadzzaman",
+                "url": "https://github.com/Sinclair-boop",
                 "className": "fa fa-github"
             }
         ]
     },
     "resume": {
-        "skillmessage": "My Programming Language Proficiency",
+        "skillmessage": "Mes compétences en langage de programmation",
         "education": [{
-            "school": "International Islamic University Chittagong.",
+            "school": "Université de Dschang.",
             "degree": "Bachelor's Degree, Computer Science",
-            "graduated": "July 2018",
-            "description": "Graduated with First Class Honours"
+            "graduated": "Juilet  2022",
+            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'exament Licence en Informatique Fondamental",
+            "url":"#"
+            
+        },
+        {
+            "school": "Google Atelier Digital",
+            "degree": "Fondamentaux du marketing numerique",
+            "graduated": "Oct 2021",
+            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'exament Fondamentaux du marketing numerique",
+            "url":"https://drive.google.com/file/d/12sdQ64DBMz3g5IVsrHHQxjTvw1AG-mR7/view?usp=sharing"
         }],
         "work": [{
-            "company": "Scandicsoft",
+            "company": "Africa Systems",
             "title": "Software engineer",
-            "years": "Jan 2018 - Present",
-            "description": "Developing some userfriendly and best software."
+            "link": "https://africsys.com/",
+            "years": "Jun 2022 - Jan",
+            "description": "Développer des logiciels conviviaux et meilleurs."
+        },
+        {
+            "company": "Projet personnel sur GitHub",
+            "link": "https://github.com/Sinclair-boop",
+            "title": "Software engineer",
+            "years": "Jun 2018 - maintenant",
+            "description": "Développer des logiciels conviviaux et meilleurs."
         }],
-        "skillssectiontitle":"Motivated by the Desire to achieve Success",
-        "skillssectiondescription":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, odit! Perspiciatis et consequuntur non, modi quo mollitia labore laborum voluptas quia officiis fugit soluta molestias quaerat sapiente sunt. ",
+        "skillssectiontitle":"Motivé par le désir de réussir",
+        "skillssectiondescription":"Je travail du les technologies de développement web et mobiles tel que definir dans la liste ",
         "skills": [{
-                "name": "Php",
+                "name": "JavaScript",
+                "level": "90%",
+                "icon": "fa fa-javascript"
+            },
+            {
+                "name": "Shell",
                 "level": "90%"
+            },
+            
+            {
+                "name": "Nuxt",
+                "level": "85%"
+            },
+            {
+                "name": "Vue",
+                "level": "85%"
+            },
+            {
+                "name": "CSS",
+                "level": "80%"
+            },
+            {
+                "name": "HTML",
+                "level": "80%"
+            },
+            {
+                "name": "React",
+                "level": "70%"
             },
             {
                 "name": "Python",
                 "level": "60%"
             },
             {
-                "name": "Vue",
-                "level": "70%"
+                "name": "Flutter",
+                "level": "50%"
             },
             {
-                "name": "React",
+                "name": "Django",
                 "level": "50%"
             },
             {
@@ -105,34 +148,34 @@
     "portfolio": {
         "projects": [{
                 "no":"01",
-                "title": "RMS with AR",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+                "title": "Quiz App",
+                "description": "QuizApp est un outil qui permet de créer des quiz sur un mode ludique. Il peut servir aussi bien aux enseignants pour l'évaluation qu'aux étudiants comme outil de révision.",
+                "url": "https://quiz-appv.vercel.app/"
             },
             {
                 "no":"02",
-                "title": "Prothom alo clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+                "title": "Portail Du Geek",
+                "description": "Le Portail Du Geek (PDG) est'une platforme qui offre la possibilite a tout utilisateur a etre a jour sur actualite et a etre informme sur de nouvelles technologies",
+                "url": "https://portaildugeek.com"
             },
             {
                 "no":"03",
-                "title": "Chaldal Clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+                "title": "Modals",
+                "description": "Modals est 'une mini application qui permet la creation des modals et la suppression des modals",
+                "url": "https://github.com/Sinclair-boop/vueJsModals.git"
             }
         ]
     },
     "testimonials": {
         "testimonials": [{
-                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
-                "clientname": "John wilson",
-                "clientaddress": "Seattle, Washington"
+                "text": "Boop a un esprit d'analyse et de logique. Dans l’informatique et plus particulièrement pour les métiers touchants au code, il est nécessaire d’avoir un esprit d’analyse et une certaine rigueur afin d’organiser de manière clair votre code, repérer une erreur, structurer ou raisonner.",
+                "clientname": "Christian Raoul",
+                "clientaddress": "Liverpool, Angleterre"
             },
             {
-                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
-                "clientname": "David haris",
-                "clientaddress": "London, England"
+                "text": "Pour coder, Il sait prendre des bonnes décisions. La patience est aussi une des clefs de votre réussite, prenez sur vous et faites abstraction du reste pour avancer et trouver des solutions.!",
+                "clientname": "Yannick Mabou",
+                "clientaddress": "Douala, Cameroun"
             }
         ]
     },
@@ -141,37 +184,51 @@
             {
                 "no": "01",
                 "title": "UI/UX Design",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "description": "J’aime passer du temps avec mes clients pour comprendre leurs problématiques, définir une stratégie et créer des dispositifs clairs et fonctionnels."
             },
             {
                 "no": "02",
                 "title": "Web Design",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "description": "Je réalise de A à Z votre stratégie digitale, que ce soit pour créer votre site vitrine, votre site e-commerce, vos bannières ou bien vos interfaces mobiles, vos logos, des applications mobiles. Vous serez accompagné tout au long par un seul et même interlocuteur afin de ne pas avoir la tête qui tourne."
             },
             {
                 "no": "03",
                 "title": "Web Development",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "description": "je suis développeur web, je fais de la programmation back-end et front-end, et de la configuration et gestion de serveurs. J’hésite à dire « full stack developer », terme popularisé il y a quelque temps, qui est devenu sujet à controverse."
             }
         ]
     },
     "awwards": {
         "awwards": [
             {
-                "title": "Website of the day",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+                "no":"01",
+                "title": "Quiz App",
+                "description": "QuizApp est un outil qui permet de créer des quiz sur un mode ludique. Il peut servir aussi bien aux enseignants pour l'évaluation qu'aux étudiants comme outil de révision.",
+                "url": "https://quiz-appv.vercel.app/"
             },
             {
-                "title": "Awards Site Of The Day",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+                "no":"02",
+                "title": "Portail Du Geek",
+                "description": "Le Portail Du Geek (PDG) est'une platforme qui offre la possibilite a tout utilisateur a etre a jour sur actualite et a etre informme sur de nouvelles technologies",
+                "url": "https://portaildugeek.com"
             },
             {
-                "title": "Honorable mention award",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+                "no":"03",
+                "title": "Modals",
+                "description": "Modals est 'une mini application qui permet la creation des modals et la suppression des modals",
+                "url": "https://github.com/Sinclair-boop/vueJsModals.git"
             },
-            {
-                "title": "Designer of the Company",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            {   
+                "no": "04",
+                "title": "Counter App",
+                "description": "Couter App est'une mini aplication qui permet de compte a chaque clique de la souris",
+                "url":"https://vue-counter-app-zeta.vercel.app/"
+            },
+            {   
+                "no": "05",
+                "title": "Modal App",
+                "description": "Modal App est'une mini aplication qui permet de cree des modals",
+                "url":"https://vue-mod.vercel.app/"
             }
         ]
     }

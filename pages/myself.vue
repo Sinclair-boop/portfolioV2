@@ -5,10 +5,10 @@
 <section class="w3l-about-breadcrumb text-center">
     <div class="breadcrumb-bg breadcrumb-bg-about py-sm-5 py-4">
         <div class="container py-2">
-            <h2 class="title">About Me</h2>
+            <h2 class="title">À propos de moi</h2>
             <ul class="breadcrumbs-custom-path mt-2">
-                <li><router-link to="/">Home</router-link></li>
-                <li class="active"><span class="fa fa-arrow-right mx-2" aria-hidden="true"></span> About Me </li>
+                <li><router-link to="/">Accueil</router-link></li>
+                <li class="active"><span class="fa fa-arrow-right mx-2" aria-hidden="true"></span> À propos de moi </li>
             </ul>
         </div>
     </div>
@@ -25,17 +25,17 @@
                     </div>
                 </div>
                 <div class="col-lg-8 mt-lg-0 mt-5">
-                    <h5 class="title-small mb-2">Hello, I am {{data.main.designation}}</h5>
-                    <h3 class="title-big">Having {{data.main.yearofexperience}} Years of Experience</h3>
+                    <h5 class="title-small mb-2">Salut, Je suis {{data.main.designation}}</h5>
+                    <h3 class="title-big">Ayant {{data.main.yearofexperience}} années d'expérience</h3>
                     <p class="mt-4">{{data.main.bio}}</p>
                     <div class="my-info mt-4">
-                        <div class="single-info"><span>Name:</span>
+                        <div class="single-info"><span>Nom:</span>
                             <p>{{data.main.name}}</p>
                         </div>
-                        <div class="single-info"><span>Age:</span>
+                        <!-- <div class="single-info"><span>Age:</span>
                             <p>{{data.main.age}}</p>
-                        </div>
-                        <div class="single-info"><span>From:</span>
+                        </div> -->
+                        <div class="single-info"><span>Depuis:</span>
                             <p>{{data.main.address.city}}, {{data.main.address.state}}</p>
                         </div>
                         <div class="single-info"><span>Email:</span>
@@ -43,7 +43,7 @@
                         </div>
                     </div>
                     <div class="my-social mt-lg-5 mt-4">
-                        <a :href="data.main.resumedownload" target="_blank" class="btn btn-style btn-primary">Download CV</a>
+                        <a :href="data.main.resumedownload" target="_blank" class="btn btn-style btn-primary">Télécharger CV</a>
                         <ul class="social m-0 p-0">
                             <li v-for="social in data.main.social" v-bind:key="social" >
                                 <a :href="social.url"><span :class="social.className"></span></a>
@@ -62,7 +62,7 @@
     <div class="blog py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">Services</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">What I do for you</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4">Ce que je fais pour vous</h3>
             <div class="row">
                 
                     
@@ -124,7 +124,7 @@
     </div>
     <div class="img-one content-mid">
         <center>
-        <h3 class="title-big"> Call me right now </h3><br>
+        <h3 class="title-big"> Rappelle moi immédiatement </h3><br>
         <a  href="" class="btn btn-style btn-primary">{{data.main.phone}}</a>
          
         </center>
@@ -138,7 +138,7 @@
     <div class="w3l-achievements py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">Education</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">My Educations</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4">Mes formations</h3>
             <div class="row">
                 
                 <div class="col-lg-6 item" v-for="education in data.resume.education" v-bind:key="education">
@@ -147,7 +147,7 @@
                             <div class="icon">
                                 <span class="fa fa-graduation-cap"></span>
                             </div>
-                            <h4><a href="">{{education.degree}}</a></h4>
+                            <h4><a :href="education.url">{{education.degree}}</a></h4>
                             <p>
                                 School : {{education.school}}<br>
                                 Graduated : {{education.graduated}}<br>
@@ -167,8 +167,8 @@
 <section class="w3l-services">
     <div class="w3l-achievements py-5" id="services">
         <div class="container py-lg-5">
-            <h5 class="title-small text-center">Work</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">My Work Experience</h3>
+            <h5 class="title-small text-center">Travail</h5>
+            <h3 class="title-big text-center mb-sm-5 mb-4">Mon experience professionnelle</h3>
             <div class="row">
                 
                 <div class="col-lg-6 item" v-for="work in data.resume.work" v-bind:key="work">
@@ -179,8 +179,8 @@
                             </div>
                             <h4><a href="">{{work.title}}</a></h4>
                             <p>
-                                Company : {{work.company}}<br>
-                                Year : {{work.years}}<br>
+                                Entreprise : <a :href="work.link" target="_blank">{{work.company}}</a><br>
+                                Année : {{work.years}}<br>
                                 Description : {{work.description}}<br>
                             </p>
                         </div>

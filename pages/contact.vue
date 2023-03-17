@@ -4,9 +4,9 @@
 <section class="w3l-about-breadcrumb text-center">
     <div class="breadcrumb-bg breadcrumb-bg-about py-sm-5 py-4">
         <div class="container py-2">
-            <h2 class="title">Contact Me</h2>
+            <h2 class="title">Me contacter </h2>
             <ul class="breadcrumbs-custom-path mt-2">
-                <li><a href="#url">Home</a></li>
+                <li><a href="/">Accueil</a></li>
                 <li class="active"><span class="fa fa-arrow-right mx-2" aria-hidden="true"></span> Contact </li>
             </ul>
         </div>
@@ -24,7 +24,7 @@
                             <span class="fa fa-phone text-primary"></span>
                         </div>
                         <div class="cont-right">
-                            <h6>Call Me</h6>
+                            <h6>Appelez-moi</h6>
                             <p><a :href="'tel:'+data.main.phone">{{data.main.phone}}</a></p>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                             <span class="fa fa-envelope-o text-primary"></span>
                         </div>
                         <div class="cont-right">
-                            <h6>Email Me</h6>
+                            <h6>Mon Email</h6>
                             <p><a :href="'mailto:'+data.main.email" class="mail">{{data.main.email}}</a></p>
                         </div>
                     </div>
@@ -42,7 +42,7 @@
                             <span class="fa fa-map-marker text-primary"></span>
                         </div>
                         <div class="cont-right">
-                            <h6>Location</h6>
+                            <h6>Emplacement</h6>
                             <p>{{data.main.address.street}} , {{data.main.address.city}}, {{data.main.address.state}}, {{data.main.address.zip}}.</p>
                         </div>
                     </div>

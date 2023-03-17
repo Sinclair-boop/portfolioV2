@@ -6,12 +6,12 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-sm-12 mt-lg-0 mt-4">
-                <span class="title-small">Hello</span>
-                <h1 class="mb-2 title"> <span>I'm</span> {{data.main.name}} </h1>
+                <span class="title-small">Salut</span>
+                <h1 class="mb-2 title"> <span>Je suis</span> {{data.main.name}} </h1>
                 <p>{{data.main.occupation}}
                 </p>
                 <div class="mt-sm-5 mt-4">
-                    <nuxt-link to="/contact" class="btn btn-primary btn-style mr-2" > Hire Me </nuxt-link>
+                    <nuxt-link to="/contact" class="btn btn-primary btn-style mr-2" > Engagez moi </nuxt-link>
                     <nuxt-link to="/contact" class="btn btn-outline-primary btn-style mr-2" > Portfolio </nuxt-link>
                 </div>
             </div>
@@ -35,10 +35,10 @@
                     </div>
                 </div>
                 <div class="col-lg-8 mt-lg-0 mt-5">
-                    <h5 class="title-small mb-2">Who am i?</h5>
-                    <h3 class="title-big">I'm <b>{{data.main.name}}</b>, a {{data.main.occupation}}</h3>
+                    <h5 class="title-small mb-2">Qui suis je?</h5>
+                    <h3 class="title-big">je suis <b>{{data.main.name}}</b>, un {{data.main.occupation}}</h3>
                     <p class="mt-4">{{data.main.bio}}</p>
-                    <a :href="data.main.resumedownload" target="_blank" class="btn btn-style btn-primary mt-lg-5 mt-4">Download CV</a>
+                    <a :href="data.main.resumedownload" target="_blank" class="btn btn-style btn-primary mt-lg-5 mt-4">Télécharger CV</a>
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@
             {{data.main.quotes1.description}}
         </p>
         <div class="mt-5">
-            <a :href="data.main.resumedownload" target="_blank"  class="btn btn-style btn-primary">Download resume</a>
+            <a :href="data.main.resumedownload" target="_blank"  class="btn btn-style btn-primary">Télécharger CV</a>
         </div>
     </div>
 </div>
@@ -64,7 +64,7 @@
     <div class="blog py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">Services</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">What I do for you</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4">Ce que je fais pour vous</h3>
             <div class="row">
                 
                     
@@ -101,22 +101,22 @@
             <div class="col-sm-3 col-6 stats_info counter_grid">
                 <span class="fa fa-laptop"></span>
                 <p >{{data.main.workabout.completedproject}}</p>
-                <h4>Completed projects</h4>
+                <h4>Projets achevés</h4>
             </div>
             <div class="col-sm-3 col-6 stats_info counter_grid1">
                 <span class="fa fa-hourglass-end"></span>
                 <p >{{data.main.workabout.inprogressproject}}</p>
-                <h4>In processes</h4>
+                <h4>En cours</h4>
             </div>
             <div class="col-sm-3 col-6 stats_info counter_grid mt-sm-0 mt-5">
                 <span class="fa fa-gift"></span>
                 <p >{{data.main.workabout.awardrecived}}</p>
-                <h4>Awards Received</h4>
+                <h4>Prix ​​reçus</h4>
             </div>
             <div class="col-sm-3 col-6 stats_info counter_grid2 mt-sm-0 mt-5">
                 <span class="fa fa-smile-o"></span>
                 <p >{{data.main.workabout.happyclinet}}</p>
-                <h4>Happy Clients</h4>
+                <h4>Clients heureux</h4>
             </div>
         </div>
     </div>
@@ -128,8 +128,8 @@
     <div class="cusrtomer-layout py-5">
         <div class="container py-lg-5 py-md-4">
             <div class="heading text-center mx-auto">
-                <h6 class="title-small text-center">Testimonials</h6>
-                <h3 class="title-big mb-md-5 mb-4">What my clients think about Me </h3>
+                <h6 class="title-small text-center">Témoignages</h6>
+                <h3 class="title-big mb-md-5 mb-4">Ce que mes clients pensent de moi </h3>
             </div>
            
             <div class="testimonial-width">
@@ -189,10 +189,10 @@
 
  <section class="w3l-grid-quote text-center py-5">
    <div class="container py-3">
-     <h6 class="title-small">Get in touch</h6>
-     <h3 class="title-big mb-md-5 mb-4">Let's start a Project! Hire Me.</h3>
-     <router-link to="/contact" class="btn btn-style btn-primary mr-2">Hire Me </router-link>
-     <router-link to="/contact" class="btn btn-style btn-outline-primary">Get in touch</router-link>
+     <h6 class="title-small">Entrer en contact</h6>
+     <h3 class="title-big mb-md-5 mb-4">Commençons un projet ! Engagez moi.</h3>
+     <router-link to="/contact" class="btn btn-style btn-primary mr-2">Engagez moi </router-link>
+     <router-link to="/contact" class="btn btn-style btn-outline-primary">Entrer en contact</router-link>
    </div>
  </section>
 

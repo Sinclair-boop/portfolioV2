@@ -5,10 +5,10 @@
 <section class="w3l-about-breadcrumb text-center">
     <div class="breadcrumb-bg breadcrumb-bg-about py-sm-5 py-4">
         <div class="container py-2">
-            <h2 class="title">My Projects</h2>
+            <h2 class="title">Mes Projets</h2>
             <ul class="breadcrumbs-custom-path mt-2">
-                <li><router-link to="/">Home</router-link></li>
-                <li class="active"><span class="fa fa-arrow-right mx-2" aria-hidden="true"></span> Project </li>
+                <li><router-link to="/">Accueil</router-link></li>
+                <li class="active"><span class="fa fa-arrow-right mx-2" aria-hidden="true"></span> Projet </li>
             </ul>
         </div>
     </div>
@@ -18,8 +18,8 @@
 <section class="w3l-services ">
     <div class="blog py-5" id="services">
         <div class="container py-lg-5">
-            <h5 class="title-small text-center">Projects list</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">I have done lots of project for my client.</h3>
+            <h5 class="title-small text-center">List des Projets</h5>
+            <h3 class="title-big text-center mb-sm-5 mb-4">J'ai réalisé de nombreux projets pour mes clients.</h3>
             <div class="row">
                 
                     
@@ -32,7 +32,7 @@
                                         <span class="fa fa-pencil-square-o"></span>
                                     </div>
                                     <h4 class="number">{{project.no}}</h4>
-                                    <h4><a >{{project.title}}</a></h4>
+                                    <h4><a :href="project.url" target="_blank">{{project.title}}</a></h4>
                                     <p>{{project.description}}</p>
                                 </div>
 								</a>
@@ -61,7 +61,7 @@
     </div>
     <div class="img-one content-mid">
         <center>
-        <h3 class="title-big"> Call me right now </h3><br>
+        <h3 class="title-big"> Rappelle moi immédiatement </h3><br>
         <a  href="" class="btn btn-style btn-primary">{{data.main.phone}}</a>
          
         </center>

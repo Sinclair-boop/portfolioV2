@@ -19,13 +19,13 @@
           <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
               <ul class="navbar-nav ml-auto">
                   <li class="nav-item active">
-                     <nuxt-link to="/" class="nav-link" >Home <span class="sr-only">(current)</span></nuxt-link>
+                     <nuxt-link to="/" class="nav-link" >Accueil <span class="sr-only">(current)</span></nuxt-link>
                   </li>
                   <li class="nav-item @@about__active">
-                      <nuxt-link to="/myself" class="nav-link" >About</nuxt-link>
+                      <nuxt-link to="/myself" class="nav-link" >A-propos</nuxt-link>
                   </li>
                   <li class="nav-item @@projects__active">
-                      <nuxt-link to="/projects" class="nav-link" >Project</nuxt-link>
+                      <nuxt-link to="/projects" class="nav-link" >Projets</nuxt-link>
                   </li>
                   <li class="nav-item @@contact__active">
                       <nuxt-link to="/contact" class="nav-link" >Contact</nuxt-link>
@@ -60,7 +60,7 @@
     <div class="footer-content">
       <div class="row">
         <div class="col-lg-8 footer-left">
-          <p class="m-0">{{data.main.shortname}} © Copyright 2021. Developed by <a href="https://baizidmdashadzzaman.com/" target="_blank">ASADZAMAN</a></p>
+          <p class="m-0">{{data.main.shortname}} © Copyright 2023. Developed by <a href="https://github.com/Sinclair-boop" target="_blank">Sinclair-boop</a></p>
         </div>
         <div class="col-lg-4 footer-right text-lg-right text-center mt-lg-0 mt-3">
           <ul class="social m-0 p-0">
