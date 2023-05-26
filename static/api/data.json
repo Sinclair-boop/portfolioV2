@@ -36,7 +36,7 @@
             "awardrecived": "0",
             "happyclinet": "2"
         },
-        "resumedownload": "https://drive.google.com/file/d/13U0Hto6pu_cikuDWpfsS0012_r-_em9E/view?usp=sharing",
+        "resumedownload": "https://drive.google.com/file/d/1usiCblkck83olGEvMIZqN9YVZUXk9Brc/view?usp=sharing",
         "social": [{
                 "name": "youtube",
                 "url": "https://www.youtube.com/channel/UCHwr0CjLnhqIWcQh9pX9NJw",
@@ -85,7 +85,7 @@
             "company": "Africa Systems",
             "title": "Software engineer",
             "link": "https://africsys.com/",
-            "years": "Jun 2022 - Jan",
+            "years": "Jun 2022 - Now",
             "description": "Développer des logiciels conviviaux et meilleurs."
         },
         {
@@ -97,7 +97,12 @@
         }],
         "skillssectiontitle":"Motivé par le désir de réussir",
         "skillssectiondescription":"Je travail du les technologies de développement web et mobiles tel que definir dans la liste ",
-        "skills": [{
+        "skills": [
+            {
+                "name": "Web Development",
+                "level": "95%"
+            },
+            {
                 "name": "JavaScript",
                 "level": "90%",
                 "icon": "fa fa-javascript"
@@ -106,15 +111,27 @@
                 "name": "Shell",
                 "level": "90%"
             },
-            
+            {
+                "name": "Java",
+                "level": "85%"
+            },
+            {
+                "name": "React JS",
+                "level": "85%"
+            },
+            {
+                "name": "Spring Boot",
+                "level": "83%"
+            },
+            {
+                "name": "Vue JS",
+                "level": "80%"
+            },
             {
                 "name": "Nuxt",
-                "level": "85%"
+                "level": "80%"
             },
-            {
-                "name": "Vue",
-                "level": "85%"
-            },
+           
             {
                 "name": "CSS",
                 "level": "80%"
@@ -131,18 +148,12 @@
                 "name": "Python",
                 "level": "60%"
             },
-            {
-                "name": "Flutter",
-                "level": "50%"
-            },
+           
             {
                 "name": "Django",
-                "level": "50%"
-            },
-            {
-                "name": "Web Development",
-                "level": "95%"
+                "level": "60%"
             }
+            
         ]
     },
     "portfolio": {
