@@ -4,7 +4,7 @@
         "shortname": "Boop",
         "occupation": "Développeur / Programmeur / Ingénieur",
         "description": "Mangez, dormez, codez, répétez.",
-        "yearofexperience": "02",
+        "yearofexperience": "04",
         "age": "25",
         "designation": "Développeur full stack",
         "image": "/images/photo.png",
@@ -152,8 +152,15 @@
             {
                 "name": "Django",
                 "level": "60%"
+            },
+            {
+                "name": "photoshop",
+                "level": "55%"
+            },
+            {
+                "name": "Illustrator",
+                "level": "55%"
             }
-            
         ]
     },
     "portfolio": {
