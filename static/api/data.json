@@ -15,8 +15,8 @@
         "phone": "+237693462144",
         "mapaddress": "https://goo.gl/maps/Z93uUwt68BsqXc2DA",
         "address": {
-            "street": "Foto",
-            "city": "Dschang",
+            "street": "Titi Garage",
+            "city": "Yaounde",
             "state": "Cameroun",
             "zip": "4202"
         },
@@ -68,9 +68,9 @@
         "skillmessage": "Mes compétences en langage de programmation",
         "education": [{
             "school": "Université de Dschang.",
-            "degree": "Master en Intelligence Artificielle",
-            "graduated": "Juilet  2022",
-            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'exament Master en Intelligence Artificielle",
+            "degree": "Master 1 en Intelligence Artificielle",
+            "graduated": "Juilet  2023",
+            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'exament Master 1 en Intelligence Artificielle",
             "url":"#"
             
         },
@@ -85,7 +85,7 @@
             "company": "Africa Systems",
             "title": "Software engineer",
             "link": "https://africsys.com/",
-            "years": "Jun 2022 - Now",
+            "years": "Jun 2022 - jan 2023",
             "description": "Développer des logiciels conviviaux et meilleurs."
         },
         {
@@ -112,23 +112,24 @@
                 "level": "90%"
             },
             {
-                "name": "Java",
-                "level": "85%"
-            },
-            {
                 "name": "React JS",
                 "level": "85%"
             },
             {
-                "name": "Spring Boot",
+                "name": "python",
+                "level": "85%"
+            },
+            
+            {
+                "name": "Django",
                 "level": "83%"
             },
             {
-                "name": "Vue JS",
+                "name": "Django Rest Framework",
                 "level": "80%"
             },
             {
-                "name": "Nuxt",
+                "name": "Vue js",
                 "level": "80%"
             },
            
@@ -141,26 +142,18 @@
                 "level": "80%"
             },
             {
-                "name": "React",
-                "level": "70%"
-            },
-            {
-                "name": "Python",
+                "name": "Java",
                 "level": "60%"
             },
            
             {
-                "name": "Django",
+                "name": "Spring Boot",
                 "level": "60%"
             },
             {
-                "name": "photoshop",
+                "name": "figma",
                 "level": "55%"
             },
-            {
-                "name": "Illustrator",
-                "level": "55%"
-            }
         ]
     },
     "portfolio": {
