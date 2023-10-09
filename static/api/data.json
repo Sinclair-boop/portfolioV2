@@ -70,9 +70,16 @@
             "school": "Université de Dschang.",
             "degree": "Master 1 en Intelligence Artificielle",
             "graduated": "Juilet  2023",
-            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'exament Master 1 en Intelligence Artificielle",
+            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'examen Master 1 en Intelligence Artificielle",
             "url":"#"
             
+        },
+            {
+            "school": "Université de Dschang.",
+            "degree": "Licence en Informatique Fondamentale",
+            "graduated": "Juilet 2022",
+            "description": "Sinclair Fotso a obtenu ce certificat attestant de sa reussite a l'examen Licence en Informatique Fondamentale",
+            "url":"https://drive.google.com/file/d/12sdQ64DBMz3g5IVsrHHQxjTvw1AG-mR7/view?usp=sharing"
         },
         {
             "school": "Google Atelier Digital",
