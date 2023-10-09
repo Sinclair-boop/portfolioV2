@@ -163,16 +163,28 @@
                 "description": "QuizApp est un outil qui permet de créer des quiz sur un mode ludique. Il peut servir aussi bien aux enseignants pour l'évaluation qu'aux étudiants comme outil de révision.",
                 "url": "https://quiz-appv.vercel.app/"
             },
-            {
+                {
                 "no":"02",
-                "title": "Portail Du Geek",
-                "description": "Le Portail Du Geek (PDG) est'une platforme qui offre la possibilite a tout utilisateur a etre a jour sur actualite et a etre informme sur de nouvelles technologies",
-                "url": "https://portaildugeek.com"
+                "title": "Gestionnaire de Contact",
+                "description": "Le but de cette application est de manipuler des contacts. C’est-à-dire : créer,modifier, supprimer des contacts. Il est implemente en React JS version 18.2.0 et Typescript version 4.9.5",
+                "url": "https://application-contact.vercel.app/"
             },
             {
                 "no":"03",
                 "title": "Modals",
                 "description": "Modals est 'une mini application qui permet la creation des modals et la suppression des modals",
+                "url": "https://github.com/Sinclair-boop/vueJsModals.git"
+            },
+            {
+                "no":"04",
+                "title": "API SIMULATION",
+                "description": "Réalisation d'un API pour simuler les transaction mobile money cas du Cameroun dans le cadre d'un projet de detection de transaction frauduleuse(Projet Accademique du Master 1)",
+                "url": "https://github.com/Sinclair-boop/vueJsModals.git"
+            },
+            {
+                "no":"05",
+                "title": "API AI",
+                "description": "Réalisation d'une API dans la quelle on charge un modèle préalablement entraîne pour la détection de transaction frauduleuse, il communique avec l'api simulation(Projet Academique du Master1)",
                 "url": "https://github.com/Sinclair-boop/vueJsModals.git"
             }
         ]
