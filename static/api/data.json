@@ -219,9 +219,9 @@
             },
             {
                 "no":"02",
-                "title": "Portail Du Geek",
-                "description": "Le Portail Du Geek (PDG) est'une platforme qui offre la possibilite a tout utilisateur a etre a jour sur actualite et a etre informme sur de nouvelles technologies",
-                "url": "https://portaildugeek.com"
+                "title": "Gestionnaire de Contact",
+                "description": "Le but de cette application est de manipuler des contacts. C’est-à-dire : créer,modifier, supprimer des contacts. Il est implemente en React JS version 18.2.0 et Typescript version 4.9.5",
+                "url": "https://application-contact.vercel.app/"
             },
             {
                 "no":"03",
