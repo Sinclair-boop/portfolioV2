@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-lg-8 mt-lg-0 mt-5">
                     <h5 class="title-small mb-2">Qui suis je?</h5>
-                    <h3 class="title-big">je suis <b>{{data.main.name}}</b>, un {{data.main.occupation}}</h3>
+                    <h3 class="title-big">Passionné de Code, Créateur d’Innovations Salut ! Je suis <b>{{data.main.name}}</b>, un {{data.main.occupation}}</h3>
                     <p class="mt-4">{{data.main.bio}}</p>
                     <a :href="data.main.resumedownload" target="_blank" class="btn btn-style btn-primary mt-lg-5 mt-4">Télécharger CV</a>
                 </div>

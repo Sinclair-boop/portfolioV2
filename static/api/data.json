@@ -1,15 +1,15 @@
 {
     "main": {
-        "name": "Sinclair FOTSO NGAPOUT",
+        "name": "Sinclair Fotso",
         "shortname": "Boop",
-        "occupation": "Développeur / Programmeur / Ingénieur",
+        "occupation": "Ingénieur logiciel",
         "description": "Mangez, dormez, codez, répétez.",
-        "yearofexperience": "04",
-        "age": "25",
+        "yearofexperience": "02",
+        "age": "26",
         "designation": "Développeur full stack",
         "image": "/images/photo.png",
         "fullimage": "/images/myphoto1.jpg",
-        "bio": "Je rêve d'être un développeur full stack expert afin de pouvoir créer des logiciels professionnels et utiles qui ont une valeur commerciale. Je recherche un poste développeur full stack dans une société de logiciels réputée qui peut m'aider à atteindre mon objectif.",
+        "bio": "Constamment à la recherche de défis techniques stimulants pour repousser les limites. Possède des compétences approfondies en langages de programmation et en architecture logicielle. Passionné par l'innovation, je m'efforce de créer des solutions informatiques de pointe.",
         "contactmessage": "Contactez-moi pour créer un logiciel pour votre entreprise!",
         "email": "ngapoutfotso@gmail.com",
         "phone": "+237693462144",
@@ -23,12 +23,12 @@
         "quotes1": {
             "sectiontitle": "Mon CV",
             "title": "J'aimerais concrétiser vos idées",
-            "description": "J'adore le graphisme et la photographie et travaille sur mon portfolio depuis 2020. Vous pouvez télécharger mon CV afin de connaître les détails de ma vie professionnelle en tant que Développeur web et mobile. Contactez-moi et nous discuterons de vos projets !"
+            "description": "J'ai une passion pour le développement logiciel et je travaille sur mon portfolio depuis 2020. Vous pouvez télécharger mon CV afin de connaître les détails de ma vie professionnelle en tant que Développeur web et mobile. Contactez-moi et nous discuterons de vos projets !"
         },
         "quotes2": {
             "sectiontitle": "",
             "title": "Je peux donner à votre entreprise un nouveau départ créatif tout de suite ! Engagez-moi pour votre projet génial",
-            "description": "Maintenance du site web en francais et mise à jour régulière suivant les offres promotionnelles et événements. Utilisation codage et HTML. Assister l'ingénieur senior sur la maintenance du site internet. Forte utilisation de l'Anglais."
+            "description": "Maintenance des modules et mise à jour régulière conformément aux offres promotionnelles et aux événements. Utilisation du codage. Assistance aux autres membres de l'équipe pour la maintenance des projets. Forte maîtrise de l'anglais."
         },
         "workabout": {
             "completedproject": "2",
@@ -36,7 +36,7 @@
             "awardrecived": "0",
             "happyclinet": "2"
         },
-        "resumedownload": "https://drive.google.com/file/d/1usiCblkck83olGEvMIZqN9YVZUXk9Brc/view?usp=sharing",
+        "resumedownload": "https://drive.google.com/file/d/1GDP9eekQp4NTQ-7QT5qkLd3MgUUXTfUB/view?usp=drive_link",
         "social": [{
                 "name": "youtube",
                 "url": "https://www.youtube.com/channel/UCHwr0CjLnhqIWcQh9pX9NJw",
@@ -103,15 +103,15 @@
             "description": "Développer des logiciels conviviaux et meilleurs."
         }],
         "skillssectiontitle":"Motivé par le désir de réussir",
-        "skillssectiondescription":"Je travail du les technologies de développement web et mobiles tel que definir dans la liste ",
+        "skillssectiondescription":"Je travail du les technologies de développement tel que definir dans la liste ",
         "skills": [
             {
-                "name": "Web Development",
-                "level": "95%"
+                "name": "API REST",
+                "level": "85%"
             },
             {
-                "name": "JavaScript",
-                "level": "90%",
+                "name": "React JS",
+                "level": "70%",
                 "icon": "fa fa-javascript"
             },
             {
@@ -119,48 +119,22 @@
                 "level": "90%"
             },
             {
-                "name": "React JS",
-                "level": "85%"
-            },
-            {
-                "name": "python",
-                "level": "85%"
+                "name": "Typesript",
+                "level": "50%"
             },
             
             {
-                "name": "Django",
-                "level": "83%"
-            },
-            {
-                "name": "Django Rest Framework",
-                "level": "80%"
-            },
-            {
-                "name": "Vue js",
-                "level": "80%"
-            },
-           
-            {
-                "name": "CSS",
-                "level": "80%"
-            },
-            {
-                "name": "HTML",
-                "level": "80%"
-            },
-            {
-                "name": "Java",
-                "level": "60%"
-            },
-           
-            {
-                "name": "Spring Boot",
-                "level": "60%"
+                "name": ".NET",
+                "level": "65%"
             },
             {
                 "name": "figma",
                 "level": "55%"
             },
+            {
+                "name": "Spring boot",
+                "level": "70%"
+            }
         ]
     },
     "portfolio": {
@@ -173,7 +147,7 @@
                 {
                 "no":"02",
                 "title": "Gestionnaire de Contact",
-                "description": "Le but de cette application est de manipuler des contacts. C’est-à-dire : créer,modifier, supprimer des contacts. Il est implemente en React JS version 18.2.0 et Typescript version 4.9.5",
+                "description": "Cette application est essentielement concu en React Js et Typescript il a pour but  de manipuler des contacts. C’est-à-dire : créer,modifier, supprimer des contacts.",
                 "url": "https://application-contact.vercel.app/"
             },
             {
@@ -198,7 +172,7 @@
     },
     "testimonials": {
         "testimonials": [{
-                "text": "Boop a un esprit d'analyse et de logique. Dans l’informatique et plus particulièrement pour les métiers touchants au code, il est nécessaire d’avoir un esprit d’analyse et une certaine rigueur afin d’organiser de manière clair votre code, repérer une erreur, structurer ou raisonner.",
+                "text": "Sinclair Fotso a un esprit d'analyse et de logique. Dans l’informatique et plus particulièrement pour les métiers touchants au code, il est nécessaire d’avoir un esprit d’analyse et une certaine rigueur afin d’organiser de manière clair votre code, repérer une erreur, structurer ou raisonner.",
                 "clientname": "Christian Raoul",
                 "clientaddress": "Liverpool, Angleterre"
             },
@@ -223,8 +197,8 @@
             },
             {
                 "no": "03",
-                "title": "Web Development",
-                "description": "je suis développeur web, je fais de la programmation back-end et front-end, et de la configuration et gestion de serveurs. J’hésite à dire « full stack developer », terme popularisé il y a quelque temps, qui est devenu sujet à controverse."
+                "title": "Développement logiciel",
+                "description": "je suis développeur logiciel, je fais de la programmation back-end et front-end, et de la configuration et gestion de serveurs. J’hésite à dire « full stack developer », terme popularisé il y a quelque temps, qui est devenu sujet à controverse."
             }
         ]
     },

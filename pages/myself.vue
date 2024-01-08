@@ -26,7 +26,7 @@
                 </div>
                 <div class="col-lg-8 mt-lg-0 mt-5">
                     <h5 class="title-small mb-2">Salut, Je suis {{data.main.designation}}</h5>
-                    <h3 class="title-big">Ayant {{data.main.yearofexperience}} années d'expérience</h3>
+                    <h3 class="title-big">Ayant plus de {{data.main.yearofexperience}} années d'expérience</h3>
                     <p class="mt-4">{{data.main.bio}}</p>
                     <div class="my-info mt-4">
                         <div class="single-info"><span>Nom:</span>
