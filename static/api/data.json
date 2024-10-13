@@ -15,7 +15,7 @@
         "phone": "+237693462144",
         "mapaddress": "https://goo.gl/maps/Z93uUwt68BsqXc2DA",
         "address": {
-            "street": "Titi Garage",
+            "street": "Ngousso",
             "city": "Yaounde",
             "state": "Cameroun",
             "zip": "4202"
@@ -36,7 +36,7 @@
             "awardrecived": "0",
             "happyclinet": "2"
         },
-        "resumedownload": "https://drive.google.com/file/d/1GDP9eekQp4NTQ-7QT5qkLd3MgUUXTfUB/view?usp=drive_link",
+        "resumedownload": "https://drive.google.com/file/d/1DMyc06HOO_kO-9R2IumnYZ-2IDnDsnC2/view?usp=drive_link",
         "social": [{
                 "name": "youtube",
                 "url": "https://www.youtube.com/channel/UCHwr0CjLnhqIWcQh9pX9NJw",
@@ -112,6 +112,11 @@
             {
                 "name": "React JS",
                 "level": "70%",
+                "icon": "fa fa-javascript"
+            },
+             {
+                "name": "Angular",
+                "level": "65%",
                 "icon": "fa fa-javascript"
             },
             {
